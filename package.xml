@@ -1,0 +1,17 @@
+<package format="2">
+  <name>xiaoqiang_audio_controller</name>
+  <version>0.0.1</version>
+  <description>
+      xiaoqiang audio controller, parse results from xiaoqiang asr.
+  </description>
+  <license>MIT</license>
+  <author email="randoms@bwbot.org">Randoms</author>
+  <maintainer email="randoms@bwbot.org">Randoms</maintainer>
+  <url type="website">http://github.com/bluewhalerobot/xiaoqiang_audio_controller</url>
+  <url type="bugtracker">https://github.com/bluewhalerobot/xiaoqiang_audio_controller/issues</url>
+  <url type="repository">https://github.com/bluewhalerobot/xiaoqiang_audio_controller</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+</package>
